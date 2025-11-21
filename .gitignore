@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 node_modules
+=======
+# Ignore common OS and editor files
+node_modules/
+# Ignore common OS and editor files
+node_modules/
+.DS_Store
+.vscode/
+.env
+
+# ignore caches
+.cache/
+
+# keep repo focused
+*~
